@@ -6,7 +6,7 @@ The Recipe Blog App is a web application that allows users to browse and explore
 
 ## 🛠 Tech Stack
 
-Frontend: React, Tailwind CSS, React Router
+Frontend: React, Tailwind CSS, React Router, Redux-toolkit
 
 Authentication: JWT (JSON Web Token) - Used via DUmmyJSON
 
@@ -16,7 +16,7 @@ API: DummyJSON (for mock data)
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/adarsh3813/recipeBlogDemo.git
+git clone https://github.com/674aditi/recipeBlogDemo.git
 cd recipeBlogDemo
 
 ### 2️⃣ Install Dependencies
